@@ -1,0 +1,64 @@
+body{
+
+}
+.headersection {
+    width: 697px;
+}
+.headerleft {
+    margin-left: 7%;
+    float: left;
+}
+.headerleft h2 {
+    font-size: 18px;
+}
+.headerleft h1 {
+    font-size: 25px;
+}
+.headerleft p {
+    font-size: 10px;
+}
+.headerleft button {
+    background-color: red;
+    border: none;
+    font-size: 8px;
+    min-height: 18px;
+}
+.headerleft img {
+    width: 240px;
+    float: right;
+    margin-top: -24%;
+}
+.slidersection{
+    width: 697px;
+}
+.sliderright {
+    margin-right: 7%;
+    float: right;
+}
+.sliderright h2 {
+    font-size: 18px;
+    float: right;
+    margin-right: 33%;
+    margin-top: 15%;
+}
+.sliderright p {
+    font-size: 10px;
+    float: right;
+    margin-left: 30%;
+}
+.sliderright img {
+    float: left;
+    width: 240px;
+    margin-right: 5%;
+    margin-top: -31%;
+    margin-left: -22%;
+}
+.sliderright button {
+    background-color: red;
+    border: none;
+    font-size: 8px;
+    min-height: 18px;
+    float: right;
+    margin-right: 36%;
+    margin-top: -17%;
+}
